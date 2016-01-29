@@ -1,6 +1,7 @@
 # Armagogo
 Site marchand dynamique, de vente d'armes, munitions et accessoires en php, architecture MVC. 
 Fonctionnalitées :
+
 Utilisateur non inscrit : 
   - Inscription
   - Consulter la fiche technique d'un produit
